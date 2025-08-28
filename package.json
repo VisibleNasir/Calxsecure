@@ -25,5 +25,8 @@
       "core-js-pure",
       "sharp"
     ]
+  },
+  "dependencies": {
+    "@prisma/client": "6.15.0"
   }
 }
